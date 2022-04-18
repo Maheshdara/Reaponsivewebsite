@@ -1,0 +1,90 @@
+
+ .navbar{
+    padding-left: 150px;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link, .dropdown-menu .dropdown-item:hover{
+    color: rgba(15, 37, 147, 0.657);
+}
+.header-bg{
+    background: url("./Images/header\ bg.png");
+    height: 500px;
+    width: 100%;
+    text-align: center;
+}
+
+
+.Middle{
+    height: 100%;
+    width: 100%;
+    background-color: gainsboro;
+}
+.latest li{
+    list-style: none;
+    display: inline-block;
+    padding: 50px;
+    padding-top: 20px;
+   
+}
+.work{
+    padding-top: 20px;
+    padding-left: 60px;
+   
+}
+.new{
+    border-top: 1px solid gainsboro;
+}
+.article{
+    padding: 20px;
+}
+.Test{
+    padding-left: 60px;
+}
+.col-md-6,li {
+  list-style: none;
+  display: inline-block;
+  padding: 20px;
+}
+
+.Download{
+     background: url("./Images/bg.png");
+        margin: auto;
+        width:100%;
+        border: 3px solid skyblue;
+        padding: 10px;
+        height: 100%;
+        background-size: cover; 
+     
+}
+.dowcont{
+    padding: 20px;
+    float: left;
+}
+.button{
+    float: right;
+    padding: 20px;
+    
+}
+.btnn{
+    width: 240px;
+    height: 60px;
+  background:url("./Images/button\ bg.png");
+  border-radius:5px;
+}
+.btnn,a{
+  text-decoration:none;
+  color: black;
+}
+.FOOTER{
+    background-color: gainsboro;
+    clear: both;
+}
+
+.carousel-item{
+    height: 24rem;
+    background-color: #0000;
+}
+
+
+
+
